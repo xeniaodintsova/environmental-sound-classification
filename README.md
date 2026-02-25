@@ -2,7 +2,7 @@
 
 This repository contains a description of my deep learning project on environmental sound classification using the ESC-50 dataset (https://github.com/karolpiczak/ESC-50).
 
-The project explores different audio representations and data augmentation strategies, and compares their impact on classification performance using convolutional neural networks (CNNs). The work was completed as part of an undergraduate machine learning mini-project (UCL PHAS0056 Practical Machine Learning for Physicists).
+The project explores different audio representations and data augmentation strategies, and compares their impact on classification performance using convolutional neural networks (CNNs).
 
 ## Project Overview
 
@@ -80,4 +80,4 @@ To run the notebook:
 
 ## Notes
 
-This project was completed as part of undergraduate coursework and focuses on experimentation and analysis rather than production-level optimisation. The code is provided for demonstration purposes.
+This project focuses on experimentation and analysis rather than production-level optimisation. The code is provided for demonstration purposes.
